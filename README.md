@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEIEI98428228
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/EIEI98428228)
 
 <!--
 **Eiei28/EIEI28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
